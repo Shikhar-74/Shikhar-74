@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=F70000&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Shikhar+Shukla+👋;Full+Stack+Developer;Open+to+Collaboration;Always+Learning+Something+New!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Shikhar+Shukla+👋;Full+Stack+Developer;Building+Real-time+Apps;Always+Learning+Something+New!" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+</p>
+
 
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
