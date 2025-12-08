@@ -1,14 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Shikhar+Shukla+👋;Full+Stack+Developer;Building+Real-time+Apps;Always+Learning+Something+New!" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-</p>
+https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif
 
 
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
 
 Hi there, I'm Shikhar 👋
 
