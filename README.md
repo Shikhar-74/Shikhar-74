@@ -58,9 +58,9 @@ I'm a **Full Stack Developer** passionate about building performant, scalable we
   
 ![Shikhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shikhar-74&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhar-Shukla&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhar-74&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shikhar-Shukla&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shikhar-74&theme=radical&hide_border=true)
 
 </div>
 
