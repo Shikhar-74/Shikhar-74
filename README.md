@@ -66,34 +66,6 @@ I'm a **Full Stack Developer** passionate about building performant, scalable we
 
 ---
 
-## 🏗️ Featured Projects
-
-### **[Real-time Video Conferencing Platform](https://github.com/Shikhar-Shukla/video-conferencing)**
-A feature-rich video conferencing solution with screen sharing, chat, and recording capabilities.
-- **Tech:** WebRTC, Socket.IO, React, Node.js, MongoDB
-- **Features:** Multi-user rooms, screen sharing, chat, recording
-
-### **[Enterprise Chat Application](https://github.com/Shikhar-Shukla/enterprise-chat)**
-Secure, scalable chat application with real-time messaging and file sharing.
-- **Tech:** React, Node.js, Socket.IO, JWT, Redis
-- **Features:** End-to-end encryption, file sharing, group chats, message history
-
-### **[E-commerce Microservices Platform](https://github.com/Shikhar-Shukla/ecommerce-microservices)**
-Modular e-commerce platform built with microservices architecture.
-- **Tech:** Node.js, Docker, Kubernetes, PostgreSQL, RabbitMQ
-- **Features:** Independent scaling, fault tolerance, API gateway
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Real-time Applications with WebRTC and Socket.IO](https://medium.com/@shuklashikhar344)
-- [Microservices Architecture: Patterns and Best Practices](https://medium.com/@shuklashikhar344)
-- [Optimizing Node.js Applications for Production](https://medium.com/@shuklashikhar344)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
